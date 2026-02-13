@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moizahmet&label=Profile%20views&color=0e75b6&style=flat" alt="moizahmet" /> </p>
 
-- Contact Me On 👉🏻 **iambusinessmanger@outlook.com**
-
-- Fun Fact 😉 **Am bit funny 👀😁**
-
-<h3 align="left">Connect with me:</h3>
+- Contact Me On 👉🏻 **iambusinessmanger@
 <p align="left">
 <a href="https://instagram.com/moizahmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moizahmet" height="30" width="40" /></a>
 </p>
